@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+*.sqlite3
+
+# Logs and local environment
+logs/
+*.log
+*.out
+*.err
+debug.log
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency files
+requirements.txt
+Pipfile
+Pipfile.lock
+
+# Deployment and cache files
+*.db
+instance/
+.cache/
