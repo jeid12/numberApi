@@ -28,7 +28,7 @@ debug.log
 Thumbs.db
 
 # Dependency files
-requirements.txt
+
 Pipfile
 Pipfile.lock
 
