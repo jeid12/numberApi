@@ -86,4 +86,5 @@ Explore the Swagger UI documentation:
 Visit http://127.0.0.1:8000/docs in your browser.
 
 #### Deployed on render
+![Visit](![FastAPI](https://numberapi-bfmt.onrender.com)
 
